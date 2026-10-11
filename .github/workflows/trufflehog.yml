@@ -1,0 +1,26 @@
+name: Secret Scan
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 6 * * 1" # weekly Monday 06:00 UTC
+
+permissions:
+  contents: read
+
+jobs:
+  trufflehog:
+    name: TruffleHog OSS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history — leaks can hide in old commits
+
+      - name: Scan for secrets
+        uses: trufflesecurity/trufflehog@main
+        with:
+          extra_args: --only-verified
