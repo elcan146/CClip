@@ -29,6 +29,7 @@ build/
 *.mp3
 *.wav
 *.png
+!darklogo.png
 *.ass
 *.log
 
