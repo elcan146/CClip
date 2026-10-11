@@ -1,0 +1,47 @@
+# ── Secrets & credentials ──────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+*_secrets.json
+client_secrets.json
+token.json
+user_data/
+*_settings.json
+quota_ledger.json
+*.json
+!requirements.txt
+
+# ── Python ─────────────────────────────────────────────
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ── Media & binaries ───────────────────────────────────
+*.dll
+*.mp4
+*.mkv
+*.mp3
+*.wav
+*.png
+*.ass
+*.log
+
+# ── App runtime dirs ───────────────────────────────────
+clips_output/
+movies_input/
+music/
+series/
+Logs/
+modular_backup/
+
+# ── OS / editor ────────────────────────────────────────
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
