@@ -4,7 +4,7 @@
 
 <img src="darklogo.png" alt="CClip" width="420">
 
-# ✂️ CClip
+# CClip
 
 **AI-powered cinematic clip engine — turn full-length movies into viral vertical shorts, automatically.**
 
