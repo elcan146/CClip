@@ -46,3 +46,7 @@ Thumbs.db
 .DS_Store
 .idea/
 .vscode/
+
+# Demo assets shown in README
+!assets/*.mp4
+!assets/*.jpg

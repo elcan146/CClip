@@ -26,7 +26,28 @@
 
 ---
 
-## 🎬 The Pipeline
+## � Demo
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🛠️ The Engine</b></td>
+      <td align="center"><b>🍿 The Output</b></td>
+    </tr>
+    <tr>
+      <td><video src="https://raw.githubusercontent.com/elcan146/CClip/main/assets/cekiclip30s.mp4" poster="https://raw.githubusercontent.com/elcan146/CClip/main/assets/cekiclip30s.jpg" controls muted width="400"></video></td>
+      <td><video src="https://raw.githubusercontent.com/elcan146/CClip/main/assets/reel.mp4" poster="https://raw.githubusercontent.com/elcan146/CClip/main/assets/reel.jpg" controls muted width="400"></video></td>
+    </tr>
+    <tr>
+      <td align="center"><sub>Movie in → vertical shorts out, in 30 seconds</sub></td>
+      <td align="center"><sub>A finished AI-generated short</sub></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## �🎬 The Pipeline
 
 ```
 🎞️  Input Video ──► 🎧 Whisper Transcription ──► 🧠 Gemini Scene Analysis
