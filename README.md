@@ -28,10 +28,6 @@
 
 ## 🎥 Demo
 
-<!-- TO ADD VIDEOS: click the ✏️ Edit button on this file on GitHub, place your cursor inside
-     each src="" below (deleting the placeholder text), then drag & drop the matching .mp4
-     file into the editor — GitHub inserts the video URL right where your cursor is.
-
 <div align="center">
   <table>
     <tr>
@@ -39,16 +35,8 @@
       <td align="center"><b>🍿 The Output</b></td>
     </tr>
     <tr>
-      <td><video src="
-
-https://github.com/user-attachments/assets/654ec38a-8310-4220-904f-d5d43677f058
-
-" poster="https://raw.githubusercontent.com/elcan146/CClip/main/assets/cekiclip30s.jpg" controls muted width="400"></video></td>
-      <td><video src="
-
-https://github.com/user-attachments/assets/ea0bd5b3-5a0e-4a73-a591-a711ce83e71a
-
-" poster="https://raw.githubusercontent.com/elcan146/CClip/main/assets/reel.jpg" controls muted width="400"></video></td>
+      <td><video src="https://github.com/user-attachments/assets/654ec38a-8310-4220-904f-d5d43677f058" poster="https://raw.githubusercontent.com/elcan146/CClip/main/assets/cekiclip30s.jpg" controls muted width="400"></video></td>
+      <td><video src="https://github.com/user-attachments/assets/ea0bd5b3-5a0e-4a73-a591-a711ce83e71a" poster="https://raw.githubusercontent.com/elcan146/CClip/main/assets/reel.jpg" controls muted width="400"></video></td>
     </tr>
     <tr>
       <td align="center"><sub>Movie in → vertical shorts out, in 30 seconds</sub></td>
